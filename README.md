@@ -32,7 +32,7 @@ I turn data into actionable insights using SQL, Python, and BI tools. Currently 
 
 ---
 
-### 📌 Featured Projects
+### 📌 Projects Portfolio
 
 > 🔧 *Project portfolio is currently under construction — data analysis, BI dashboard, and machine learning projects will be added here soon. Check back regularly!*
 
