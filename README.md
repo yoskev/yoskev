@@ -1,4 +1,4 @@
-# Hi, I'm Yosafat Kevin 👋
+# Hi, I'm Yosafat 👋
 
 **Data Analyst | Business Intelligence | Aspiring Machine Learning Practitioner**
 
