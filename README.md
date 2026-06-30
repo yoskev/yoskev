@@ -1,6 +1,6 @@
 # Hi, I'm Yosafat 👋
 
-**Data Analyst | Business Intelligence | Aspiring Machine Learning Practitioner**
+**Data Analyst | Business Intelligence | Machine Learning**
 
 I turn data into actionable insights using SQL, Python, and BI tools. Currently deepening my skills in **Data Analysis**, **Business Intelligence**, and **Machine Learning**. I'm actively building out my project portfolio in this repository — stay tuned! 🚀
 
