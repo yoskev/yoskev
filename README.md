@@ -44,10 +44,10 @@ I turn data into actionable insights using SQL, Python, and BI tools. Currently 
 
 ### 💼 Experience
 
-- 🔹 **ERP Business Consultant** — 1 year
-- 🔹 **Data Analyst** — 1 year
-- 🔹 **Performance Marketing** — 1 year
-- 🔹 **System Analyst** — 1 year
+- 🔹 1 year as **ERP Business Consultant**
+- 🔹 1 year as **Data Analyst**
+- 🔹 1 year as **Performance Marketing**
+- 🔹 1 year as **System Analyst**
 
 ### 🎓 Background
 
