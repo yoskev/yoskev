@@ -34,6 +34,8 @@ I turn data into actionable insights using SQL, Python, and BI tools. Currently 
 
 ### 📌 Projects Portfolio
 
+- 🔹 **[Hardware E-commerce Product - Data Scraping](https://github.com/yoskev/Mini-Data-Scraping-Project-Homeware-Product)** — Python web scraping project that crawls category pages and extracts product name, price, rating, and review count into a clean, analysis-ready CSV file. *Tools: Python, httpx, selectolax*
+
 > 🔧 *Project portfolio is currently under construction — data analysis, BI dashboard, and machine learning projects will be added here soon. Check back regularly!*
 
 <!-- Format once projects are available, e.g.:
