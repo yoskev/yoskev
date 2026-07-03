@@ -35,6 +35,7 @@ I turn data into actionable insights using SQL, Python, and BI tools. Currently 
 ### 📌 Projects Portfolio
 
 - 🔹 **[Hardware E-commerce Product - Data Scraping](https://github.com/yoskev/Mini-Data-Scraping-Project-Hardware-Product)** — Python web scraping project that crawls category pages and extracts product name, price, rating, and review count into a clean, analysis-ready CSV file. *Tools: Python, httpx, selectolax*
+- - 🔹 **[Sport Store Sales Analytics Dashboard with Power BI](https://github.com/yoskev/Sales-Analysis-Dashboard-Sport-Store-with-Power-BI)** — This is project that include sales analysis for Sport Brand client and visualize the data using Power BI from timeline year 2020 - 2022.
 
 > 🔧 *Project portfolio is currently under construction — data analysis, BI dashboard, and machine learning projects will be added here soon. Check back regularly!*
 
