@@ -53,7 +53,7 @@ I turn data into actionable insights using SQL, Python, and BI tools. Currently 
 -  1 year as **ERP Business Consultant**
 -  1 year as **Data Analyst**
 -  1 year as **Performance Marketing**
--  1 year as **System Analyst**
+-  1 year as **System Administrator**
 
 ### 🎓 Background
 
