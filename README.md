@@ -25,7 +25,7 @@ I turn data into actionable insights using SQL, Python, and BI tools. Currently 
 **Tools & Platforms**
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![SPSS](https://img.shields.io/badge/SPSS-1E88E5?style=flat)
+![Google BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white)
 
 **Other Competencies:**
 - Data Wrangling & Cleansing, Data Modeling, Data Preprocessing
