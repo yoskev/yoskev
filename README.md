@@ -25,13 +25,13 @@ I turn data into actionable insights using SQL, Python, and BI tools. Currently 
 **Tools & Platforms**
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Google BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white)
+![SQL Server Management Studio](https://img.shields.io/badge/SSMS-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 
 **Other Competencies:**
 - Data Wrangling & Cleansing, Data Modeling, Data Preprocessing
 - Predictive Analytics, A/B Testing, Web Scraping
 - ERP Systems: Microsoft Dynamics GP, Odoo, Oracle E-Business Suite
-- Prompt Engineering & AI Fluency (ChatGPT, Claude AI, Grok)
+- Prompt Engineering & AI Fluency
 
 ---
 
