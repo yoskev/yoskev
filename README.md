@@ -53,7 +53,7 @@ I turn data into actionable insights using SQL, Python, and BI tools. Currently 
 
 ### 🎓 Background
 
-- 🎓 **BINUS University** — Bachelor's Degree, Information Systems
+- 🎓 Bachelor's Degree, Information Systems.
 - 📜 Google Data Analytics (Google) • Data Analysis with Python (IBM) • Data Analytics Mini Course (Revou)
 
 ---
